@@ -1,0 +1,21 @@
+Generic_Name,Strength_Per_Unit,Pack_Size,Brand_Name_Originator,Brand_Price_RM,Generic_Product_Names,Generic_Price_RM,Savings_Percentage,Bioequivalence_Status,Therapeutic_Equivalence,Notes
+Atorvastatin,20mg,30 tablets,Lipitor,85.00,"Atorva, Atover, Atorlip",18.00 - 25.00,70-79%,Approved by NPRA,Yes - Fully interchangeable,One of highest savings in cardiovascular drugs
+Omeprazole,20mg,30 capsules,Losec,68.00,"Omez, Omeprax, Losepine",12.00 - 18.00,74-82%,Approved by NPRA,Yes - Fully interchangeable,Generic widely accepted by patients
+Amlodipine,5mg,30 tablets,Norvasc,55.00,"Amlostin, Aloten, Amcard",8.00 - 12.00,78-85%,Approved by NPRA,Yes - Fully interchangeable,Very commonly prescribed; huge savings
+Metformin,500mg,60 tablets,Glucophage,45.00,"Diabex, Diabet, Gluformin",6.00 - 10.00,78-87%,Approved by NPRA,Yes - Fully interchangeable,First-line diabetes drug; cost-effective generics
+Simvastatin,20mg,30 tablets,Zocor,72.00,"Simvador, Simcard, Simvatin",10.00 - 15.00,79-86%,Approved by NPRA,Yes - Fully interchangeable,Alternative to atorvastatin with similar savings
+Losartan,50mg,30 tablets,Cozaar,95.00,"Losakind, Losavan, Losacar",22.00 - 30.00,68-77%,Approved by NPRA,Yes - Fully interchangeable,ARB class; generics well-tolerated
+Cetirizine,10mg,30 tablets,Zyrtec,35.00,"Virlix, Allercet, Cetaler",8.00 - 12.00,66-77%,Approved by NPRA,Yes - Fully interchangeable,OTC available; generic equally effective
+Salbutamol,100mcg/puff,1 inhaler (200 doses),Ventolin,28.00 - 35.00,"Asthalin, Salbulin, Asmol",18.00 - 22.00,29-49%,Approved by NPRA,Yes (device similarity important),Lower savings due to device costs
+Paracetamol,500mg,100 tablets,Panadol,18.00,"Uphamol, Febrilex, Paramol",5.00 - 8.00,56-72%,Approved by NPRA,Yes - Fully interchangeable,Most commonly used analgesic
+Ibuprofen,400mg,30 tablets,Brufen,22.00,"Ibugesic, Fenris, Ibumed",6.00 - 9.00,59-73%,Approved by NPRA,Yes - Fully interchangeable,OTC available; generic very affordable
+Pantoprazole,40mg,30 tablets,Controloc,75.00,"Pantopump, Pantosec, Pantoloc",15.00 - 22.00,71-80%,Approved by NPRA,Yes - Fully interchangeable,Alternative to omeprazole; similar savings
+Perindopril,4mg,30 tablets,Coversyl,88.00,"Perindo, Prexum, Perinorm",25.00 - 35.00,60-72%,Approved by NPRA,Yes - Fully interchangeable,ACE inhibitor; moderate savings
+Gliclazide MR,30mg,30 tablets,Diamicron MR,52.00,"Gliclazide MR (various), Glimicron",12.00 - 18.00,65-77%,Approved by NPRA,Yes - Ensure MR formulation,Modified release must be specified
+Clopidogrel,75mg,30 tablets,Plavix,125.00,"Clopid, Cloflow, Anticlot",28.00 - 40.00,68-78%,Approved by NPRA,Yes - Fully interchangeable,High cost brand; significant savings with generic
+Montelukast,10mg,30 tablets,Singulair,95.00,"Monteluk, Montene, Montair",22.00 - 32.00,66-77%,Approved by NPRA,Yes - Fully interchangeable,Leukotriene receptor antagonist for asthma
+Rosuvastatin,10mg,30 tablets,Crestor,98.00,"Rosuvas, Rozavel, Rosucor",35.00 - 48.00,51-64%,Approved by NPRA,Yes - Fully interchangeable,Newer statin; lower savings percentage but still substantial
+Telmisartan,40mg,30 tablets,Micardis,88.00,"Telma, Telsar, Telmican",24.00 - 35.00,60-73%,Approved by NPRA,Yes - Fully interchangeable,ARB class alternative to losartan
+Esomeprazole,40mg,30 tablets,Nexium,85.00,"Esomid, Esopump, Nexipra",20.00 - 28.00,67-76%,Approved by NPRA,Yes - Fully interchangeable,S-isomer of omeprazole; good generic savings
+Sildenafil,50mg,4 tablets,Viagra,120.00,"Silagra, Suhagra, Caverta (imported)",40.00 - 60.00,50-67%,Approved by NPRA,Yes - Fully interchangeable,Expensive brand; generics more accessible
+Tamsulosin,0.4mg,30 capsules,Harnal OCAS,78.00,"Tamsulon, Tamflo, Urimax",18.00 - 28.00,64-77%,Approved by NPRA,Yes - Ensure MR formulation,For benign prostatic hyperplasia

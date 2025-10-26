@@ -1,0 +1,21 @@
+Drug_Name,Storage_Temperature,Light_Sensitivity,Moisture_Sensitivity,Refrigeration_Required,Shelf_Life_Unopened,Shelf_Life_Opened,Special_Instructions
+Insulin (vials),2-8°C (fridge),Moderate,Low,Yes (before opening),Until expiry date,28 days at room temp,Never freeze; can keep opened vial at room temp for convenience
+Amoxicillin Suspension,Room temp (reconstituted),Low,High,No (fridge preferred after reconstitution),3 years (powder),14 days (reconstituted),Shake well before use; discard after 14 days even if refrigerated
+Eye Drops (most types),Room temp,Moderate,Low,No,2-3 years,28 days,Discard 28 days after opening to prevent bacterial contamination
+Nitroglycerin (GTN) Tablets,Room temp,Very High,High,No,6-12 months,3 months,Keep in original amber glass bottle; tightly closed; very sensitive
+Vaccines (MMR Varicella),2-8°C (strict),High,Low,Yes (mandatory),2 years,Single use vial,Never freeze; monitor temperature continuously; discard if exposed to room temp >8 hours
+Suppositories,Below 25°C,Low,Low,Preferred in hot climates,2-3 years,Until expiry,May soften in heat; store in cool place; refrigerate in tropical climate
+Warfarin,Room temp,Moderate,High,No,5 years,Until expiry,Protect from moisture and light; keep in original container with desiccant
+Levothyroxine,Room temp,High,Very High,No,3 years,Until expiry,Very sensitive to moisture; keep in blister until use; do not use pill organizers
+Probiotics,2-8°C (most strains),Low,Moderate,Yes (most products),1-2 years,As per label,Some strains stable at room temp; always check specific product requirements
+Oral Contraceptives,Room temp,Low,Moderate,No,5 years,Until expiry,Protect from excessive heat (>30°C); maintain regular storage conditions
+Metronidazole,Room temp,Moderate,Moderate,No,3 years,Until expiry,Protect from light; store in tight container
+Prednisolone Tablets,Room temp,Low,High,No,5 years,Until expiry,Protect from moisture; dispense in original packaging when possible
+Salbutamol Inhaler,Below 30°C,Low,Low,No,2-3 years,Until expiry,Do not puncture or burn; protect from freezing; store with cap on
+Paracetamol Syrup,Room temp,Low,Low,No,3 years,6 months,Keep bottle tightly closed; do not refrigerate unless specified
+Digoxin,Room temp,Moderate,High,No,5 years,Until expiry,Protect from light and moisture; very narrow therapeutic index
+Reconstituted Antibiotics (general),2-8°C (fridge),Low,High,Yes (after reconstitution),Variable as powder,7-14 days typically,Always check specific product; label with reconstitution date
+Adrenaline (Epinephrine) Auto-injector,Room temp,Very High,Low,No (but avoid heat),18 months typical,Single use,Check solution regularly (should be clear); replace if discolored; protect from light
+Morphine Injection,Room temp,Moderate,Low,No,3 years,Discard unused portion,Controlled drug; store in locked cupboard; protect from light
+Omeprazole Capsules,Room temp,Moderate,High,No,3 years,Until expiry,Protect from moisture; swallow whole (do not open capsules)
+Aspirin,Room temp,Low,Very High,No,5 years,Until expiry,Vinegar smell indicates degradation; discard if present; keep tightly closed

@@ -1,0 +1,7 @@
+Category,BMI_Range_Min,BMI_Range_Max,Health_Risk,Recommendation_MY,Visual_Color
+Underweight,0,18.4,Malnutrition risk,Consult dietitian and increase caloric intake,Yellow
+Normal,18.5,24.9,Low risk,Maintain healthy lifestyle and regular exercise,Green
+Overweight,25.0,29.9,Moderate risk,Diet modification and increase physical activity,Orange
+Obese Class I,30.0,34.9,High risk,Medical intervention and structured weight loss program,Red
+Obese Class II,35.0,39.9,Very high risk,Medical intervention and consider bariatric options,Dark Red
+Obese Class III,40.0,999,Extremely high risk,Immediate medical intervention required,Purple

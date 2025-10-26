@@ -1,0 +1,21 @@
+Interaction_ID,Drug_A,Drug_B,Severity,Interaction_Type,Clinical_Effect,Management,Evidence_Level
+INT001,Warfarin,Aspirin,Severe,Pharmacodynamic,Increased bleeding risk (up to 3x),Avoid combination or monitor INR closely every 3-5 days,High (Clinical studies)
+INT002,Metformin,Alcohol,Moderate,Pharmacokinetic,Increased risk of lactic acidosis,Limit alcohol consumption and monitor symptoms,Moderate
+INT003,Simvastatin,Amlodipine,Moderate,Pharmacokinetic (CYP3A4),Increased simvastatin levels and muscle toxicity risk,Limit simvastatin to 20mg/day max,High
+INT004,Omeprazole,Clopidogrel,Moderate,Pharmacokinetic (CYP2C19),Reduced antiplatelet effect of clopidogrel,Consider alternative PPI (pantoprazole),High
+INT005,Amoxicillin,Oral Contraceptives,Minor,Pharmacokinetic,Potentially reduced contraceptive efficacy,Use additional barrier contraception,Low (Controversial)
+INT006,NSAIDs (Ibuprofen),ACE Inhibitors,Moderate,Pharmacodynamic,Reduced antihypertensive effect and kidney damage,Monitor blood pressure and renal function,High
+INT007,Metronidazole,Alcohol,Severe,Pharmacodynamic,Disulfiram-like reaction (nausea and vomiting and flushing),Avoid alcohol during and 48h after treatment,High
+INT008,Ciprofloxacin,Antacids (Calcium/Magnesium),Moderate,Pharmacokinetic (Chelation),Reduced ciprofloxacin absorption (up to 90%),Separate administration by 2-6 hours,High
+INT009,Digoxin,Amiodarone,Severe,Pharmacokinetic + Pharmacodynamic,Increased digoxin levels and risk of toxicity,Reduce digoxin dose by 50% and monitor levels,High
+INT010,SSRIs (Fluoxetine),NSAIDs,Moderate,Pharmacodynamic,Increased bleeding risk (GI bleeding),Monitor for bleeding and consider PPI co-prescription,Moderate
+INT011,Levothyroxine,Calcium Supplements,Minor,Pharmacokinetic (Chelation),Reduced thyroid hormone absorption,Separate by at least 4 hours,Moderate
+INT012,Atorvastatin,Grapefruit Juice,Moderate,Pharmacokinetic (CYP3A4),Increased statin levels (up to 260%) and muscle toxicity,Avoid grapefruit or limit to small amounts,High
+INT013,Insulin,Beta-Blockers,Moderate,Pharmacodynamic,Masked hypoglycemia symptoms,Monitor glucose closely and patient education,High
+INT014,Phenytoin,Folic Acid,Minor,Pharmacokinetic,Reduced phenytoin levels,Monitor phenytoin levels if starting folate,Moderate
+INT015,ACE Inhibitors,Potassium Supplements,Severe,Pharmacodynamic,Hyperkalemia risk,Monitor potassium levels regularly,High
+INT016,Theophylline,Ciprofloxacin,Severe,Pharmacokinetic (CYP1A2),Increased theophylline toxicity (seizures),Reduce theophylline dose by 50% or avoid combination,High
+INT017,Carbamazepine,Oral Contraceptives,Moderate,Pharmacokinetic (Enzyme Induction),Reduced contraceptive efficacy,Use alternative contraception or higher dose,High
+INT018,Clarithromycin,Simvastatin,Severe,Pharmacokinetic (CYP3A4),Severe muscle toxicity risk (rhabdomyolysis),Stop statin during antibiotic course,High
+INT019,Spironolactone,ACE Inhibitors,Severe,Pharmacodynamic,Severe hyperkalemia risk,Avoid combination or monitor K+ twice weekly,High
+INT020,Lithium,NSAIDs,Severe,Pharmacokinetic,Increased lithium levels and toxicity,Avoid NSAIDs or monitor lithium levels closely,High

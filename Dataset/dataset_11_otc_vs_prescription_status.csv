@@ -1,0 +1,36 @@
+Medicine_Name,Strength,OTC_Status_MY,Prescription_Required,Pack_Size_Limit_OTC,Age_Restriction,Pharmacist_Supervision_Required,Common_Use_OTC,Special_Counseling_Points
+Paracetamol,500mg,Yes,No,Max 20 tablets per purchase,None (caution <12 years),No,Fever and headache and pain,Do not exceed 4g/day; Risk of liver damage in overdose
+Paracetamol,1000mg,Yes,No,Max 10 tablets per purchase,Adults only (>12 years),Yes,Severe pain and fever,Same as 500mg; Higher dose requires more caution
+Ibuprofen,200mg,Yes,No,Max 20 tablets,Not for children <12 years,Yes (counseling recommended),Pain and fever and inflammation,Take with food; Not for asthma or peptic ulcer
+Ibuprofen,400mg,Yes,No,Max 20 tablets,Not for children <12 years,Yes (mandatory counseling),Moderate to severe pain,Same as 200mg; Screen for contraindications
+Cetirizine,10mg,Yes,No,Max 30 tablets,Not for children <6 years,Yes,Allergic rhinitis and urticaria,May cause drowsiness; Avoid alcohol and driving
+Loratadine,10mg,Yes,No,Max 30 tablets,Not for children <2 years,Yes,Allergies (non-sedating),Less drowsiness than cetirizine; Once daily dosing
+Chlorpheniramine,4mg,Yes,No,Max 30 tablets,Not for children <6 years,Yes,Allergies (sedating),Causes drowsiness; Take at night; Do not drive
+Omeprazole,20mg,Yes (limited),No for short-term use,Max 14 tablets (2 weeks supply),Adults only (>18 years),Yes (mandatory counseling),GERD and heartburn,Max 2 weeks OTC; Refer if symptoms persist
+Ranitidine,150mg,Yes,No,Max 14 tablets,Adults only (>18 years),Yes,Heartburn and acid reflux,Take 30-60 minutes before meals or at bedtime
+Salbutamol Inhaler,100mcg/puff,No,Yes,N/A,Any age with prescription,N/A,Asthma and bronchospasm,Requires prescription and inhaler technique training
+Hydrocortisone Cream,1%,Yes,No,Max 30g tube,None,Yes (for appropriate use),Eczema and dermatitis and itch,Apply thinly; Not for face (unless specified); Max 7 days
+Clotrimazole Cream,1%,Yes,No,Max 20g tube,None,Yes,Fungal skin infections,Continue for 2 weeks after symptoms resolve
+Miconazole Cream,2%,Yes,No,Max 20g tube,None,Yes,Fungal skin infections,Similar to clotrimazole; Apply twice daily
+Mefenamic Acid,500mg,No,Yes,N/A,N/A,N/A,Menstrual pain and acute pain,Prescription only; Higher risk than ibuprofen
+Antibiotics (Any type),Various,No,Yes (all antibiotics),N/A,Age-dependent,N/A,Bacterial infections,All antibiotics require prescription in Malaysia
+Loperamide,2mg,Yes,No,Max 12 capsules,Not for children <12 years,Yes,Acute diarrhea,Do not use if fever or bloody stool; Max 48 hours
+Oral Rehydration Salts,WHO formula,Yes,No,No limit,All ages,No,Dehydration from diarrhea,Mix with clean water; Encourage frequent small sips
+Bisacodyl,5mg,Yes,No,Max 30 tablets,Adults and children >10 years,Yes,Constipation,Short-term use only; Encourage fluids and fiber
+Sennosides,7.5mg,Yes,No,Max 30 tablets,Adults and children >6 years,Yes,Constipation,Take at bedtime; Works in 6-12 hours
+Lactulose,10g/15mL,Yes,No,Max 300mL bottle,All ages (dose varies),Yes,Constipation,Gentle laxative; Safe for pregnancy; May cause bloating
+Diphenhydramine,25mg,Yes (limited),No,Max 12 tablets,Adults only (>18 years),Yes,Insomnia (short-term) and allergies,Causes significant drowsiness; Not with alcohol
+Dimenhydrinate,50mg,Yes,No,Max 20 tablets,Children >2 years,Yes,Motion sickness,Take 30 minutes before travel; Causes drowsiness
+Meclizine,25mg,Yes,No,Max 20 tablets,Adults and children >12 years,Yes,Motion sickness and vertigo,Less drowsiness than dimenhydrinate
+Dextromethorphan,15mg/5mL,Yes,No,Max 100mL bottle,Children >6 years,Yes,Dry cough,Do not use with productive cough; Not with MAOIs
+Guaifenesin,100mg/5mL,Yes,No,Max 100mL bottle,Children >2 years,Yes,Productive cough (expectorant),Encourage fluid intake; Helps loosen mucus
+Sodium Cromoglicate Eye Drops,2%,Yes,No,Max 10mL bottle,All ages,Yes,Allergic conjunctivitis,Use 4 times daily; May take 2-3 days to work
+Artificial Tears,Various,Yes,No,No limit,All ages,No,Dry eyes,Can use as often as needed; Preservative-free preferred
+Zinc Oxide Cream,10-40%,Yes,No,No limit,All ages (especially infants),No,Diaper rash and skin protection,Apply liberally; Safe for babies
+Calamine Lotion,Various,Yes,No,No limit,All ages,No,Itching and minor skin irritation,Shake well; Apply as needed; May dry skin
+Povidone-Iodine Solution,10%,Yes,No,No limit,All ages (avoid neonates),No,Wound disinfection,Do not use on large wounds; Not for thyroid disorders
+Chlorhexidine Mouthwash,0.2%,Yes,No,Max 300mL bottle,Adults and children >12 years,Yes,Oral hygiene and gingivitis,Do not swallow; May stain teeth with prolonged use
+Vitamin C,1000mg,Yes,No,No limit,Adults,No,Immune support and supplement,Excess excreted in urine; High doses may cause diarrhea
+Multivitamins,Various,Yes,No,No limit,Age-specific formulations,No,Nutritional supplement,Not a substitute for balanced diet
+Folic Acid,5mg,No,Yes (for 5mg),N/A (1mg OTC available),N/A,Yes (for OTC 1mg),Pregnancy supplement (low dose),5mg dose requires prescription (for deficiency treatment)
+Iron Supplements,Ferrous sulfate 200mg,Yes,No,Max 30 tablets,Adults and children >6 years,Yes,Iron deficiency anemia prevention,Take on empty stomach if tolerated; Causes constipation

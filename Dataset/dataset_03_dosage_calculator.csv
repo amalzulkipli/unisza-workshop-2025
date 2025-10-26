@@ -1,0 +1,16 @@
+Drug_Name,Adult_Dose,Pediatric_Calculation_Method,Min_Age,Max_Single_Dose_Pediatric,Max_Daily_Dose_Pediatric,Special_Notes
+Paracetamol,500-1000mg,10-15 mg/kg every 4-6 hours,Birth,15mg/kg,60mg/kg/day,Very commonly used and safe in correct doses
+Ibuprofen,400mg,5-10 mg/kg every 6-8 hours,6 months,10mg/kg,40mg/kg/day (max 2.4g),Take with food to reduce stomach upset
+Amoxicillin,500mg,20-40 mg/kg/day divided TID,Birth,Not specified,90mg/kg/day,Higher doses for resistant infections
+Cetirizine,10mg,6mo-2yr: 2.5mg daily; 2-6yr: 5mg daily; >6yr: 10mg daily,6 months,Age-dependent,Age-dependent,Non-weight based dosing
+Salbutamol (Inhaled),200mcg,1-2 puffs (100mcg/puff) PRN,2 years,2 puffs,As needed (typically max 8 puffs/day),Use spacer for children under 5 years
+Azithromycin,500mg,10 mg/kg once daily for 3 days,6 months,10mg/kg,30mg total (over 3 days),Give on empty stomach if possible
+Clarithromycin,250-500mg,7.5 mg/kg twice daily,6 months,7.5mg/kg,15mg/kg/day,Take with food
+Prednisolone,Variable,1-2 mg/kg/day (acute conditions),Birth,2mg/kg,60mg/day (typically),Short courses preferred to minimize side effects
+Ranitidine,150mg,2-4 mg/kg twice daily,Birth,4mg/kg,8mg/kg/day,Give 30 minutes before meals
+Loratadine,10mg,<30kg: 5mg daily; >30kg: 10mg daily,2 years,Weight-dependent,Weight-dependent,Can be given with or without food
+Ondansetron,4-8mg,0.15 mg/kg (max 16mg) per dose,6 months,0.15mg/kg,0.45mg/kg/day,For chemotherapy-induced nausea
+Flucloxacillin,500mg,12.5-25 mg/kg four times daily,Birth,25mg/kg,100mg/kg/day,Take on empty stomach (1 hour before meals)
+Metronidazole,400mg,7.5 mg/kg three times daily,Birth,7.5mg/kg,22.5mg/kg/day,Take with food to reduce nausea
+Trimethoprim,200mg,4 mg/kg twice daily (UTI),6 weeks,4mg/kg,8mg/kg/day,Ensure adequate fluid intake
+Domperidone,10mg,0.25 mg/kg three times daily,Birth (term),0.25mg/kg,0.75mg/kg/day,Give 15-30 minutes before meals

@@ -1,0 +1,26 @@
+Drug_Name,Pregnancy_Category_ADEC,Risk_Level,Breastfeeding_Safety,Explanation,Alternative_if_Contraindicated
+Paracetamol,A,Minimal risk,Safe,Extensive use with no evidence of harm to fetus or infant,None needed - drug of choice for pain/fever
+Ibuprofen,"C (1st/2nd trim), D (3rd trim)",Moderate-High,Use with caution,May cause premature closure of ductus arteriosus in 3rd trimester; small amounts in breast milk,Paracetamol preferred in all trimesters
+Amoxicillin,A,Minimal risk,Safe,Widely used antibiotic with no evidence of fetal harm; compatible with breastfeeding,Cephalexin if penicillin allergy
+Metformin,C,Moderate,Probably safe,Increasing evidence of safety; crosses placenta; limited data in breastfeeding,Insulin is traditional gold standard in pregnancy
+Atorvastatin,D,High risk,Contraindicated,Cholesterol essential for fetal development; may affect infant lipid metabolism,Stop all statins in pregnancy and breastfeeding
+Warfarin,D,High risk,Safe in breastfeeding,Teratogenic especially 6-12 weeks gestation; causes fetal warfarin syndrome,LMWH (Enoxaparin) for anticoagulation in pregnancy
+Aspirin (High dose),C (low dose A),Moderate,Safe in low doses,High doses may cause bleeding and premature closure of ductus arteriosus,Low dose (<150mg) considered safe in pregnancy
+Ciprofloxacin,C,Moderate,Use with caution,Potential cartilage damage in animal studies; limited human data,Beta-lactam antibiotics (amoxicillin penicillins) preferred
+ACE Inhibitors (e.g. Enalapril),D,High risk,Probably safe,Renal damage and death in fetus; oligohydramnios; hypotension in neonate,"Methyldopa, Nifedipine, Labetalol for hypertension"
+Omeprazole,B3,Low-Moderate,Safe,No evidence of harm in limited human studies; minimal excretion in breast milk,"Antacids, H2 antagonists (ranitidine) can be used"
+Cetirizine,B2,Low risk,Probably safe,Preferred antihistamine in pregnancy; minimal sedation; small amounts in breast milk,Loratadine also B2 category
+Metronidazole,B2,Low risk,Avoid single high doses,No evidence of teratogenicity; avoid high single doses in breastfeeding,Clindamycin for anaerobic infections
+Oral Contraceptives (Combined),X,Contraindicated,Generally avoid,Hormonal effects on fetus development; may reduce milk production,N/A - for contraception; barrier methods postpartum
+Isotretinoin,X,Contraindicated,Contraindicated,Severe birth defects (craniofacial CNS cardiac thymic); mandatory contraception program,Topical treatments for acne; oral antibiotics if needed
+Codeine,C,Moderate,Use with caution,Risk of neonatal withdrawal if used long-term; respiratory depression in infant via breast milk,Paracetamol preferred for pain management
+Simvastatin,D,High risk,Contraindicated,Same as atorvastatin - all statins contraindicated in pregnancy and lactation,Stop statins; focus on diet and lifestyle
+Salbutamol,A,Minimal risk,Safe,Short-acting beta-agonist safe in pregnancy for asthma; minimal systemic absorption,None needed - essential for asthma control
+Prednisolone,A,Minimal risk (short-term),Safe,Inactivated by placenta; short-term use acceptable; long-term may affect fetal growth,Use lowest effective dose; consider budesonide for asthma
+Insulin,A,Minimal risk,Safe,Drug of choice for diabetes in pregnancy; does not cross placenta or enter breast milk significantly,None - gold standard for diabetes management
+Ranitidine,B1,Low risk,Safe,H2-antagonist with good safety profile; preferred over PPIs by some clinicians,Antacids for mild symptoms
+Clindamycin,A,Minimal risk,Probably safe,Alternative for bacterial infections when penicillins contraindicated; minimal data in breastfeeding,Amoxicillin (if not allergic)
+Diclofenac,"C (1st/2nd trim), D (3rd trim)",Moderate-High,Use with caution,Same concerns as other NSAIDs; avoid in 3rd trimester,Paracetamol for pain; physiotherapy
+Levothyroxine,A,Minimal risk,Safe,Essential for maternal and fetal health; requirement increases in pregnancy,None - essential for hypothyroidism
+Amlodipine,C,Moderate,Probably safe,Limited human data; animal studies show no teratogenic effects,Methyldopa or labetalol preferred in pregnancy
+Fluconazole,D (high dose),High risk (high dose),Probably safe,High doses teratogenic (craniofacial cardiac defects); low single doses likely safe,Topical antifungals for mild infections

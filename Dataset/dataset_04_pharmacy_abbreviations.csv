@@ -1,0 +1,46 @@
+Abbreviation,Full_Term,Meaning_Context,Example_Usage,Category
+OD / od,Omne in die,Once daily,Take metformin 500mg OD,Frequency
+BD / bid,Bis in die,Twice daily,Amoxicillin 500mg BD,Frequency
+TDS / tid,Ter die sumendum,Three times daily,Take after meals TDS,Frequency
+QDS / qid,Quater die sumendum,Four times daily,Paracetamol 500mg QDS,Frequency
+PRN,Pro re nata,As needed,Pain relief PRN,Frequency
+STAT,Statim,Immediately,Give aspirin 300mg STAT,Urgency
+ac,Ante cibum,Before meals,Take omeprazole ac,Timing
+pc,Post cibum,After meals,Metformin 500mg pc,Timing
+hs,Hora somni,At bedtime,Simvastatin 20mg hs,Timing
+PO,Per os,By mouth (oral),Administer PO,Route
+IV,Intravenous,Into vein,Antibiotics IV,Route
+IM,Intramuscular,Into muscle,Vaccine IM,Route
+SC / SQ,Subcutaneous,Under skin,Insulin SC,Route
+SL,Sublingual,Under tongue,GTN SL,Route
+PR,Per rectum,Rectal route,Suppository PR,Route
+PV,Per vaginum,Vaginal route,Pessary PV,Route
+OU,Oculus uterque,Both eyes,Eye drops OU,Location
+OD (eye),Oculus dexter,Right eye,Apply to OD,Location
+OS,Oculus sinister,Left eye,Drops in OS,Location
+AU,Auris uterque,Both ears,Ear drops AU,Location
+AD,Auris dexter,Right ear,Apply to AD,Location
+AS,Auris sinister,Left ear,Drops in AS,Location
+mg,Milligram,1/1000 of gram,500mg dose,Measurement
+mcg / μg,Microgram,1/1000000 of gram,Levothyroxine 50mcg,Measurement
+mL,Milliliter,Volume measurement,10mL syrup,Measurement
+g,Gram,Mass measurement,1g equals 1000mg,Measurement
+L,Liter,Volume measurement,1L equals 1000mL,Measurement
+AAA,Apply to affected area,Topical application,Cream AAA TDS,Instruction
+NPO,Nil per os,Nothing by mouth,Patient NPO before surgery,Special
+NKA,No known allergies,Drug allergy status,NKA documented,Special
+c,Cum,With,c food (with food),Instruction
+s,Sine,Without,s food (without food),Instruction
+q,Quaque,Every,q4h (every 4 hours),Frequency
+QAM,Quaque ante meridiem,Every morning,Take QAM,Timing
+QPM,Quaque post meridiem,Every evening,Take QPM,Timing
+QHS,Quaque hora somni,Every night at bedtime,Take QHS,Timing
+x,Times,Duration indicator,x 7 days (for 7 days),Duration
+Rx,Recipe,Prescription,Rx: Amoxicillin 500mg,General
+Sig,Signa,Label/Directions,Sig: Take one tablet BD,General
+Disp,Dispense,Amount to dispense,Disp: 30 tablets,General
+Mitte,Mitte,Send/Give,Mitte 60 (give 60),General
+DAW,Dispense as written,No substitution allowed,DAW - brand name only,General
+NR,No refill,No repeat prescription,NR indicated,General
+prn,Pro re nata,When necessary,For pain prn,Frequency
+IM,Intramuscular,Into the muscle,Administer IM,Route
